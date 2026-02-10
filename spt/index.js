@@ -3,7 +3,7 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"index_atlas_1", frames: [[1471,954,254,280],[1230,951,239,303],[1976,973,72,90],[1505,647,260,305],[1243,0,279,328],[0,776,258,307],[1976,1065,67,86],[1524,326,263,319],[738,776,235,313],[502,776,234,316],[257,1094,256,245],[975,1066,243,275],[0,1085,255,246],[1789,326,257,317],[1789,645,244,326],[260,776,240,313],[1243,641,260,308],[1243,330,261,309],[975,776,253,288],[1788,0,260,324],[1727,973,247,278],[1524,0,262,324],[0,0,1241,774]]}
+		{name:"index_atlas_1", frames: [[1976,1153,67,67],[1471,954,254,280],[1230,951,239,303],[1976,973,72,90],[1505,647,260,305],[1243,0,279,328],[0,776,258,307],[1976,1065,67,86],[1524,326,263,319],[738,776,235,313],[502,776,234,316],[257,1094,256,245],[975,1066,243,275],[0,1085,255,246],[1789,326,257,317],[1789,645,244,326],[260,776,240,313],[1243,641,260,308],[1243,330,261,309],[975,776,253,288],[1788,0,260,324],[1727,973,247,278],[1524,0,262,324],[515,1094,300,138],[0,0,1241,774],[817,1091,140,73],[817,1166,143,44]]}
 ];
 
 
@@ -27,163 +27,191 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_51 = function() {
+(lib.CachedBmp_53 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_50 = function() {
+(lib.CachedBmp_51 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_49 = function() {
+(lib.CachedBmp_50 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_48 = function() {
+(lib.CachedBmp_49 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_47 = function() {
+(lib.CachedBmp_48 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_46 = function() {
+(lib.CachedBmp_47 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_45 = function() {
+(lib.CachedBmp_46 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_44 = function() {
+(lib.CachedBmp_45 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_43 = function() {
+(lib.CachedBmp_44 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_42 = function() {
+(lib.CachedBmp_43 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_41 = function() {
+(lib.CachedBmp_42 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_40 = function() {
+(lib.CachedBmp_41 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_39 = function() {
+(lib.CachedBmp_40 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_38 = function() {
+(lib.CachedBmp_39 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_37 = function() {
+(lib.CachedBmp_38 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_36 = function() {
+(lib.CachedBmp_37 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_35 = function() {
+(lib.CachedBmp_36 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_34 = function() {
+(lib.CachedBmp_35 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_33 = function() {
+(lib.CachedBmp_34 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_32 = function() {
+(lib.CachedBmp_33 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_31 = function() {
+(lib.CachedBmp_32 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_30 = function() {
+(lib.CachedBmp_31 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Bitmap211111111111111 = function() {
+(lib.CachedBmp_30 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(22);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_61 = function() {
+	this.initialize(ss["index_atlas_1"]);
+	this.gotoAndStop(23);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.Bitmap211111111111111 = function() {
+	this.initialize(ss["index_atlas_1"]);
+	this.gotoAndStop(24);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.Bitmap311111111111111 = function() {
+	this.initialize(ss["index_atlas_1"]);
+	this.gotoAndStop(25);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.Bitmap41111111111 = function() {
+	this.initialize(ss["index_atlas_1"]);
+	this.gotoAndStop(26);
 }).prototype = p = new cjs.Sprite();
 // helper functions:
 
@@ -202,6 +230,107 @@ function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
 	prototype.frameBounds = frameBounds;
 	return prototype;
 	}
+
+
+(lib.Symbol18 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Layer_1
+	this.instance = new lib.CachedBmp_53();
+	this.instance.setTransform(-16.65,-16.65,0.5,0.5);
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = p = new cjs.MovieClip();
+p.nominalBounds = new cjs.Rectangle(-16.6,-16.6,33.5,33.5);
+
+
+(lib.Symbol17 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Layer_1
+	this.shape = new cjs.Shape();
+	this.shape.graphics.f().s("#DA55AA").ss(2,1,1).p("ACdAAQAABBguAuQguAuhBAAQhAAAguguQguguAAhBQAAhAAuguQAuguBAAAQBBAAAuAuQAuAuAABAg");
+
+	this.shape_1 = new cjs.Shape();
+	this.shape_1.graphics.f().s("#FFFFFF").ss(2,1,1).p("AAAhUIBQBXIgkAAIAABSIhXAAIAAhSIgkAAg");
+	this.shape_1.setTransform(0.025,-0.875);
+
+	this.shape_2 = new cjs.Shape();
+	this.shape_2.graphics.f("#FFFFFF").s().p("AgrBVIAAhSIgkAAIBPhXIBQBXIgkAAIAABSg");
+	this.shape_2.setTransform(0.025,-0.875);
+
+	this.shape_3 = new cjs.Shape();
+	this.shape_3.graphics.f("#DA55AA").s().p("AhuBvQguguAAhBQAAhAAuguQAuguBAAAQBBAAAuAuQAtAuABBAQgBBBgtAuQguAthBABQhAgBgugtgAhOgEIAjAAIAABQIBXAAIAAhQIAkAAIhQhZg");
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_3},{t:this.shape_2},{t:this.shape_1},{t:this.shape}]}).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = p = new cjs.MovieClip();
+p.nominalBounds = new cjs.Rectangle(-16.6,-16.6,33.3,33.3);
+
+
+(lib.Symbol15 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Layer_1
+	this.instance = new lib.Bitmap41111111111();
+	this.instance.setTransform(-71.5,-22);
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = getMCSymbolPrototype(lib.Symbol15, new cjs.Rectangle(-71.5,-22,143,44), null);
+
+
+(lib.Symbol14 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Layer_1
+	this.instance = new lib.Bitmap311111111111111();
+	this.instance.setTransform(-70,-36.5);
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = getMCSymbolPrototype(lib.Symbol14, new cjs.Rectangle(-70,-36.5,140,73), null);
 
 
 (lib.Symbol12 = function(mode,startPosition,loop,reversed) {
@@ -991,6 +1120,34 @@ if (reversed == null) { reversed = false; }
 }).prototype = getMCSymbolPrototype(lib.ClipGroup_20, new cjs.Rectangle(0,0,131,162), null);
 
 
+(lib.Symbol16 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Layer_1
+	this.instance = new lib.Symbol18();
+	this.instance.cache(-19,-19,38,38);
+	new cjs.ButtonHelper(this.instance, 0, 1, 1);
+
+	this.instance_1 = new lib.Symbol17();
+	this.instance_1.cache(-19,-19,37,37);
+	new cjs.ButtonHelper(this.instance_1, 0, 1, 1);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance}]}).to({state:[{t:this.instance_1,p:{scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_1,p:{scaleX:0.8,scaleY:0.8}}]},1).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = p = new cjs.MovieClip();
+p.nominalBounds = new cjs.Rectangle(-16.6,-16.6,33.5,33.5);
+
+
 (lib.Symbol13 = function(mode,startPosition,loop,reversed) {
 if (loop == null) { loop = true; }
 if (reversed == null) { reversed = false; }
@@ -1130,14 +1287,14 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// Layer_3
-	this.nick_name = new cjs.Text("Flash", "bold 10px 'KoBrawl Gothic TT Bold'", "#949494");
+	this.nick_name = new cjs.Text("Flash", "bold 10px 'KoBrawl Gothic TT Bold'", "#FFABF3");
 	this.nick_name.name = "nick_name";
 	this.nick_name.textAlign = "center";
 	this.nick_name.lineHeight = 13;
 	this.nick_name.parent = this;
 	this.nick_name.setTransform(0,-92.5);
 
-	this.user_name = new cjs.Text("강성훈", "bold 15px 'KoBrawl Gothic TT Bold'", "#666666");
+	this.user_name = new cjs.Text("강성훈", "bold 15px 'KoBrawl Gothic TT Bold'", "#FF51BF");
 	this.user_name.name = "user_name";
 	this.user_name.textAlign = "center";
 	this.user_name.lineHeight = 19;
@@ -1156,6 +1313,45 @@ if (reversed == null) { reversed = false; }
 	this._renderFirstFrame();
 
 }).prototype = getMCSymbolPrototype(lib.Symbol1, new cjs.Rectangle(-33.2,-94.5,65.2,108.2), null);
+
+
+(lib.Symbol19 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Layer_1
+	this.instance = new lib.Symbol16();
+	this.instance.setTransform(-37.65,30.9,1,1,-90);
+	new cjs.ButtonHelper(this.instance, 0, 1, 2);
+
+	this.instance_1 = new lib.Symbol16();
+	this.instance_1.setTransform(37.7,30.9,1,1,180);
+	new cjs.ButtonHelper(this.instance_1, 0, 1, 2);
+
+	this.instance_2 = new lib.Symbol16();
+	this.instance_2.setTransform(0,30.9);
+	new cjs.ButtonHelper(this.instance_2, 0, 1, 2);
+
+	this.instance_3 = new lib.Symbol14();
+	this.instance_3.setTransform(-2.45,-20.8,0.7,0.7,0,0,0,0.1,0.2);
+	this.instance_3.alpha = 0.6992;
+	var instance_3Filter_1 = new cjs.ColorFilter(1,1,1,1,200,0,130,0);
+	this.instance_3.filters = [instance_3Filter_1];
+	this.instance_3.cache(-72,-38,144,77);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance}]}).wait(1));
+	this.timeline.addTween(cjs.Tween.get(instance_3Filter_1).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = getMCSymbolPrototype(lib.Symbol19, new cjs.Rectangle(-54.3,-46.5,108.69999999999999,94.3), null);
 
 
 // stage content:
@@ -1183,15 +1379,15 @@ if (reversed == null) { reversed = false; }
 		// ==========================================
 		// [설정 값] 여기서 전체적인 힘의 세기와 기능을 조절하세요
 		// ==========================================
-		var MOVE_SPEED = 0.15;    
+		var MOVE_SPEED = 0.17;    
 		var SQUASH_POWER = 0.05;  
 		var SQUASH_SPEED = 0.18;  
 		
-		// [영역 설정] 벽 충돌 감지 영역을 조절합니다.
-		var WALL_OFFSET_X = 50;  // 가로 벽 안쪽 여백
-		var WALL_OFFSET_Y = 100;  // 세로 벽 안쪽 여백
-		var STAGE_W_PADDING = 100;  // 캔버스 가로 추가 보정값
-		var STAGE_H_PADDING = 100;  // 캔버스 세로 추가 보정값
+		// [영역 설정] 상하좌우 여백을 각각 픽셀 단위로 조절하세요
+		var PADDING_LEFT = 0;   
+		var PADDING_RIGHT = -10;  
+		var PADDING_TOP = 100;    
+		var PADDING_BOTTOM = 50; 
 		
 		var EFFECT_GAP = 5;       
 		var EFFECT_OFFSET = 10;   
@@ -1204,6 +1400,7 @@ if (reversed == null) { reversed = false; }
 		var chars = [];
 		var effects = []; 
 		var vfxL = _this.vfx_layer;
+		var uiLayer = _this.UI; // [추가] 타임라인의 UI 무비클립 참조
 		
 		var charData = [
 		    { name: "c1", url: "https://www.artstation.com/fla_sh", user: "강성훈", nick: "Flash", frame: 0 },
@@ -1217,23 +1414,19 @@ if (reversed == null) { reversed = false; }
 		    { name: "c9", url: "https://www.artstation.com/octopovfx", user: "허서윤", nick: "Yunny", frame: 8 }
 		];
 		
-		// 캐릭터 초기화 루프
 		charData.forEach(function(data) {
 		    var item = _this[data.name];
 		    if (item) {
 		        item.gotoAndStop(0); 
 		        if (item.body) {
 		            item.body.gotoAndStop(data.frame);
-		            item.body.loop = false;
 		            item.bodyOriginSX = item.body.scaleX;
 		            item.bodyOriginSY = item.body.scaleY;
 		        }
-		
 		        var angle = Math.random() * Math.PI * 2;
 		        var baseVelocity = 10 * MOVE_SPEED;
 		        item.vx = Math.cos(angle) * baseVelocity;
 		        item.vy = Math.sin(angle) * baseVelocity;
-		
 		        item.url = data.url;
 		        item.cursor = "pointer";
 		        item.squashTimer = Math.random() * 10;
@@ -1254,30 +1447,25 @@ if (reversed == null) { reversed = false; }
 		                if (item.nick_name) item.nick_name.visible = true;
 		            }
 		        });
-		
 		        item.on("mouseout", function() {
 		            if (SHOW_NAME_ON_OVER) {
 		                if (item.user_name) item.user_name.visible = false;
 		                if (item.nick_name) item.nick_name.visible = false;
 		            }
 		        });
-		
 		        item.on("click", function() { window.open(item.url, "_blank"); });
 		        chars.push(item);
 		    }
 		});
 		
-		// 통합 루프
 		_this.on("tick", function() {
-		    // [정밀 보정] 캔버스의 현재 크기를 스케일에 맞춰 정확히 계산합니다.
-		    var currentW = (stage.canvas.width / stage.scaleX) + STAGE_W_PADDING;
-		    var currentH = (stage.canvas.height / stage.scaleY) + STAGE_H_PADDING;
+		    var stageW = stage.canvas.width / stage.scaleX;
+		    var stageH = stage.canvas.height / stage.scaleY;
 		
-		    // 충돌 경계선 계산 (가로세로 개별 Offset 적용)
-		    var minX = WALL_OFFSET_X;
-		    var maxX = currentW - WALL_OFFSET_X;
-		    var minY = WALL_OFFSET_Y;
-		    var maxY = currentH - WALL_OFFSET_Y;
+		    var leftWall = PADDING_LEFT;
+		    var rightWall = stageW - PADDING_RIGHT;
+		    var topWall = PADDING_TOP;
+		    var bottomWall = stageH - PADDING_BOTTOM;
 		
 		    // A. 이펙트 관리
 		    for (var i = effects.length - 1; i >= 0; i--) {
@@ -1293,17 +1481,17 @@ if (reversed == null) { reversed = false; }
 		        }
 		    }
 		
-		    // B. 레이어 정렬
+		    // B. 레이어 정렬 (Y-Sorting)
 		    chars.sort(function(a, b) { return a.y - b.y; });
 		
-		    // C. 캐릭터 이동 및 충돌 체크
+		    // C. 캐릭터 이동 및 충돌
 		    chars.forEach(function(item, index) {
-		        _this.setChildIndex(item, _this.numChildren - chars.length + index);
-		
+		        // [정렬] 캐릭터들을 뒤쪽 인덱스로 배치
+		        _this.setChildIndex(item, _this.numChildren - chars.length - (uiLayer ? 2 : 1) + index);
+		        
 		        item.x += item.vx;
 		        item.y += item.vy;
 		
-		        // 이펙트 생성
 		        item.effectTick++;
 		        if (item.effectTick >= EFFECT_GAP) {
 		            var eff = new lib.circle(); 
@@ -1317,38 +1505,40 @@ if (reversed == null) { reversed = false; }
 		            item.effectTick = 0;
 		        }
 		
-		        // 말캉한 애니메이션
 		        if (item.body) {
 		            var flipSide = (item.vx > 0) ? -1 : 1;
-		            var currentBaseSX = item.bodyOriginSX * flipSide;
-		            item.squashTimer += SQUASH_SPEED; 
-		            var squashVal = Math.sin(item.squashTimer) * SQUASH_POWER;
-		            item.body.scaleX = currentBaseSX + (squashVal * currentBaseSX);
-		            item.body.scaleY = item.bodyOriginSY - (squashVal * item.bodyOriginSY);
+		            item.body.scaleX = (item.bodyOriginSX * flipSide) * (1 + Math.sin(item.squashTimer += SQUASH_SPEED) * SQUASH_POWER);
+		            item.body.scaleY = item.bodyOriginSY * (1 - Math.sin(item.squashTimer) * SQUASH_POWER);
 		        }
 		
-		        // [정밀 충돌 감지]
-		        // 캐릭터의 실제 크기를 고려하여 벽에 부딪히도록 설계
 		        var bounds = item.getBounds() || item.nominalBounds;
 		        if (bounds) {
 		            var halfW = (bounds.width * Math.abs(item.scaleX)) / 2;
 		            var halfH = (bounds.height * Math.abs(item.scaleY)) / 2;
-		
-		            // 가로 충돌 (캐릭터의 중심점 기준 보정)
-		            if ((item.x - halfW < minX && item.vx < 0) || (item.x + halfW > maxX && item.vx > 0)) {
-		                item.vx *= -1;
-		            }
-		            // 세로 충돌
-		            if ((item.y - halfH < minY && item.vy < 0) || (item.y + halfH > maxY && item.vy > 0)) {
-		                item.vy *= -1;
-		            }
+		            if (item.x - halfW < leftWall && item.vx < 0) item.vx *= -1;
+		            if (item.x + halfW > rightWall && item.vx > 0) item.vx *= -1;
+		            if (item.y - halfH < topWall && item.vy < 0) item.vy *= -1;
+		            if (item.y + halfH > bottomWall && item.vy > 0) item.vy *= -1;
 		        }
 		    });
+		
+		    // [최종] UI 무비클립을 모든 요소보다 맨 위로 강제 이동
+		    if (uiLayer) {
+		        _this.setChildIndex(uiLayer, _this.numChildren - 1);
+		    }
 		});
 	}
 
 	// actions tween:
 	this.timeline.addTween(cjs.Tween.get(this).call(this.frame_0).wait(1));
+
+	// Layer_2
+	this.ui = new lib.Symbol19();
+	this.ui.name = "ui";
+	this.ui.setTransform(635.8,242.35,1,1,0,0,0,0,0.5);
+
+	this.timeline.addTween(cjs.Tween.get(this.ui).wait(1));
+	this.ui.addEventListener("tick", AdobeAn.handleFilterCache);
 
 	// Layer_1
 	this.instance = new lib.ClipGroup_1();
@@ -1476,39 +1666,39 @@ if (reversed == null) { reversed = false; }
 	// Layer_1
 	this.c9 = new lib.Symbol1();
 	this.c9.name = "c9";
-	this.c9.setTransform(841.4,243.35);
+	this.c9.setTransform(628.05,258);
 
 	this.c8 = new lib.Symbol1();
 	this.c8.name = "c8";
-	this.c8.setTransform(656.85,264.1);
+	this.c8.setTransform(497.65,243.35);
 
 	this.c7 = new lib.Symbol1();
 	this.c7.name = "c7";
-	this.c7.setTransform(506.2,258);
+	this.c7.setTransform(360.4,243.35);
 
 	this.c6 = new lib.Symbol1();
 	this.c6.name = "c6";
-	this.c6.setTransform(375.8,264.1);
+	this.c6.setTransform(219.95,243.35);
 
 	this.c5 = new lib.Symbol1();
 	this.c5.name = "c5";
-	this.c5.setTransform(155.25,250.5);
+	this.c5.setTransform(98.35,243.35);
 
 	this.c4 = new lib.Symbol1();
 	this.c4.name = "c4";
-	this.c4.setTransform(744.2,139.15);
+	this.c4.setTransform(541.55,116.05);
 
 	this.c3 = new lib.Symbol1();
 	this.c3.name = "c3";
-	this.c3.setTransform(590.05,152);
+	this.c3.setTransform(342.9,116.05);
 
 	this.c2 = new lib.Symbol1();
 	this.c2.name = "c2";
-	this.c2.setTransform(397.8,123.75);
+	this.c2.setTransform(209.3,116.05);
 
 	this.c1 = new lib.Symbol1();
 	this.c1.name = "c1";
-	this.c1.setTransform(228.4,116.9);
+	this.c1.setTransform(73.7,102.65);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.c1},{t:this.c2},{t:this.c3},{t:this.c4},{t:this.c5},{t:this.c6},{t:this.c7},{t:this.c8},{t:this.c9}]}).wait(1));
 
@@ -1523,25 +1713,40 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.circle},{t:this.vfx_layer}]}).wait(1));
 
 	// Layer_26
-	this.instance_21 = new lib.Symbol13();
-	this.instance_21.setTransform(500,150,1.7246,1.7246);
+	this.instance_21 = new lib.Symbol16();
+	this.instance_21.setTransform(1160.95,287.3);
+	new cjs.ButtonHelper(this.instance_21, 0, 1, 2);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_21).wait(1));
+	this.instance_22 = new lib.CachedBmp_61();
+	this.instance_22.setTransform(1065.05,270.65,0.5,0.5);
+
+	this.instance_23 = new lib.Symbol15();
+	this.instance_23.setTransform(934.95,405.85,0.8,0.8);
+	this.instance_23.alpha = 0.6992;
+	var instance_23Filter_1 = new cjs.ColorFilter(1,1,1,1,200,0,130,0);
+	this.instance_23.filters = [instance_23Filter_1];
+	this.instance_23.cache(-73,-24,147,48);
+
+	this.instance_24 = new lib.Symbol13();
+	this.instance_24.setTransform(350,150,1.7246,1.7246);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_24},{t:this.instance_23},{t:this.instance_22},{t:this.instance_21}]}).wait(1));
+	this.timeline.addTween(cjs.Tween.get(instance_23Filter_1).wait(1));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new lib.AnMovieClip();
-p.nominalBounds = new cjs.Rectangle(465,-33.7,2418.6,1183.8);
+p.nominalBounds = new cjs.Rectangle(165,-33.7,2718.6,1183.8);
 // library properties:
 lib.properties = {
 	id: '83BE57E0DBF23048965753C57F013F4A',
-	width: 1000,
+	width: 700,
 	height: 300,
 	fps: 30,
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/index_atlas_1.png?1770738481473", id:"index_atlas_1"}
+		{src:"images/index_atlas_1.png?1770740524499", id:"index_atlas_1"}
 	],
 	preloads: []
 };
